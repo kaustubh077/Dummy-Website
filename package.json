@@ -1,0 +1,22 @@
+{
+  "name": "dummy-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaustubh077/Dummy-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaustubh077/Dummy-Website/issues"
+  },
+  "homepage": "https://github.com/kaustubh077/Dummy-Website#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
